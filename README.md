@@ -1,1 +1,1 @@
-# decontainer-django
+# Django devContainer
