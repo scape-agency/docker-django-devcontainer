@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Scape Agency - Docker Images - Latex DevContainer
+title: Scape Agency - Docker Images - Django devContainer
 version: 0.0.1
 date-released: 2024-07-01
 url: "https://github.com/scape-agency/docker-django-devcontainer"
